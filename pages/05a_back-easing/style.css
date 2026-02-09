@@ -27,7 +27,7 @@
 }
 
 .tab.active {
-  color: #ffffff;
+  color: #ffffff; 
 }
 
 .indicator {
@@ -37,5 +37,5 @@
   background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
   border-radius: 2px;
   transform: translateX(0);
-  width: 60px;
+  width: 600px;
 }
